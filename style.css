@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(0, 0, 0);
+}
+
+.time ,#clock{
+    font-size: 3.5em;
+    position:relative ;
+    padding: top 10em;
+    font-family: sans-serif;
+    text-align: center;
+    color: #00ccff;
+    text-shadow: 0px 0px 20px #00ccff;
+    box-shadow: 0px 4px 4px rgba(22, 219, 225, 0.25);
+}
+
+.about-h2 {
+    color: #00ccff;
+    font-size: 30px;
+    font-family: sans-serif;
+    font-style: italic;
+    padding-top: 6in;
+}
+.about{
+    color: #dfebef;
+    font-size: 25px;
+    font-family: sans-serif;
+    font-style: italic;
+    padding-top: 6in;
+}
+.logo-cont{
+    display:flex;
+    justify-content: center;
+    
+}
+
+
+.f-log{
+
+    border-style: solid;
+    border-width: 0px;
+    color: #00ccff;
+    border-radius: 40px;
+    margin-right: 10px;
+    margin-left: 20px;    
+    
+}
