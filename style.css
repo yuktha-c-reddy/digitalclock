@@ -46,6 +46,7 @@ body{
 }
 @media (max-width :480px) {
     #clock{
-        font-size: 2em;
+        font-size: 1.1em;
+         position: relative;
     }
 }
